@@ -8,3 +8,4 @@ src/*
 mutagen.*.lock
 src/app/design/frontend/Scandiweb/pwa/Magento_Theme
 src/app/design/frontend/Scandiweb/pwa/Magento_Theme/*
+.idea/
