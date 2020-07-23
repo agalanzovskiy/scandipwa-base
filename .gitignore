@@ -1,7 +1,10 @@
 node_modules/
 opt/*
 src/*
+!src/app
 !src/composer.*
 !.gitignore
 !**/.gitkeep
 mutagen.*.lock
+src/app/design/frontend/Scandiweb/pwa/Magento_Theme
+src/app/design/frontend/Scandiweb/pwa/Magento_Theme/*
